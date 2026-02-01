@@ -122,8 +122,9 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background: linear-gradient(rgba(0,0,0,0.85), rgba(0,0,0,5)), url('/img/hb3-MP.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.85), rgba(0,0,0,0.9)), url('../img/hb3-MP.jpg') center/cover no-repeat;
     padding: 0 1rem;
+    color: #fff; /* ensures text is readable */
 }
 
 #hero h1 {
